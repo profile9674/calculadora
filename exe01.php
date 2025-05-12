@@ -9,7 +9,7 @@ $valor = readline("Informe um num: ");
 for($i=1;$i<$valor;$i++){
     echo "Valor: $i\n";
 }
-
+/// testando 
 
 
 ?>
